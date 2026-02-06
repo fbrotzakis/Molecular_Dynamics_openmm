@@ -1,0 +1,21 @@
+name: md_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy=1.26
+  - ambertools
+  - openmm
+  - pdbfixer
+  - openbabel
+  - parmed
+  - mdtraj
+  - rdkit=2025.3.1
+  - mdanalysis=2.8.0
+  - py3dmol
+  - prolif=1.1.0
+  - biopandas
+  - pip
+  - pip:
+    - pytraj  # Sometimes easier to handle via pip if conda build is stale
