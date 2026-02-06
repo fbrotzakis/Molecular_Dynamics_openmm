@@ -1,0 +1,23 @@
+source leaprc.protein.ff19SB
+source leaprc.DNA.OL15
+source leaprc.RNA.OL3
+source leaprc.GLYCAM_06j-1
+source leaprc.gaff2
+source leaprc.water.tip3p
+loadamberparams /Users/fdn/Documents/GitHub/Molecular_Dynamics_openmm/ligand.frcmod
+loadoff /Users/fdn/Documents/GitHub/Molecular_Dynamics_openmm/lig.lib
+SYS = loadpdb /Users/fdn/Documents/GitHub/Molecular_Dynamics_openmm/protein_ligand.pdb
+alignaxes SYS
+check SYS
+charge SYS
+addions SYS Na+ 0
+addions SYS Cl- 0
+check SYS
+charge SYS
+savepdb SYS /Users/fdn/Documents/GitHub/Molecular_Dynamics_openmm/SYS_nw.pdb
+saveamberparm SYS /Users/fdn/Documents/GitHub/Molecular_Dynamics_openmm/SYS_nw.prmtop /Users/fdn/Documents/GitHub/Molecular_Dynamics_openmm/SYS_nw.crd
+solvatebox SYS TIP3PBOX 12 0.7 
+addIonsRand SYS Na+ 34 Cl- 34
+saveamberparm SYS /Users/fdn/Documents/GitHub/Molecular_Dynamics_openmm/SYS_gaff2.prmtop /Users/fdn/Documents/GitHub/Molecular_Dynamics_openmm/SYS_gaff2.crd
+savepdb SYS /Users/fdn/Documents/GitHub/Molecular_Dynamics_openmm/SYS.pdb
+quit

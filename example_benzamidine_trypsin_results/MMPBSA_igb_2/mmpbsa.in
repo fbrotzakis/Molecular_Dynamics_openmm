@@ -1,0 +1,9 @@
+&general 
+  endframe=20,  interval=2, strip_mask=:WAT:Na+:Cl-:Mg+:K+, 
+/ 
+&gb 
+ igb=2, saltcon=0.15, 
+/ 
+&pb 
+ istrng=0.15, inp=2, radiopt=0, prbrad=1.4, 
+/

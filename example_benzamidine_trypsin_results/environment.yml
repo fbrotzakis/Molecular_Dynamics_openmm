@@ -1,0 +1,27 @@
+name: md_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - ambertools
+  - openmm
+  - pdbfixer
+  - openbabel
+  - ipykernel                # For Jupyter connection
+  - ipywidgets 
+  - ipython                  # For SVG, Image, and IPythonConsole
+  - parmed
+  - mdtraj
+  - matplotlib
+  - seaborn
+  - scipy
+  - pandas
+  - pip
+  - pip:
+    - numpy==2.0.0
+    - py3Dmol
+    - rdkit==2025.3.1
+    - prolif==1.1.0
+    - MDAnalysis==2.8.0
+    - git+https://github.com/pablo-arantes/biopandas

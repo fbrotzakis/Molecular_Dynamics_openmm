@@ -1,0 +1,146 @@
+Reading parm file (com.prmtop)
+title:
+default_name
+	mm_options:  e_debug=2
+	mm_options:  gb=2
+	mm_options:  rgbmax=25.000000
+	mm_options:  gbsa=0
+	mm_options:  surften=0.007200
+	mm_options:  cut=999.000000
+	mm_options:  epsext=78.300000
+	mm_options:  kappa=0.127315
+Processing ASCII trajectory (_MMPBSA_complex.mdcrd.0)
+
+Processing frame 1
+      iter    Total       bad      vdW     elect   nonpolar   genBorn      frms
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2675) enb14 -->   749.565
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2676) eel14 --> 11140.145
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2734) enb --> -1698.334
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2735) eel --> -16181.514
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2736) e_gb --> -2191.071
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2737) esurf -->     0.000
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2738) evdwnp -->     0.000
+ff:     0  -4844.28   3336.93   -948.77  -5041.37      0.00  -2191.07  1.75e+01
+ BOND    =      600.6657  ANGLE   =     1535.1638  DIHED      =     1201.1039
+ VDWAALS =    -1698.3343  EEL     =   -16181.5141  EGB        =    -2191.0710
+ 1-4 VDW =      749.5653  1-4 EEL =    11140.1448  RESTRAINT  =        0.0000
+ ESURF   =        0.0000
+
+Processing frame 2
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2675) enb14 -->   740.217
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2676) eel14 --> 11017.798
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2734) enb --> -1683.346
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2735) eel --> -16046.300
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2736) e_gb --> -2252.086
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2737) esurf -->     0.000
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2738) evdwnp -->     0.000
+ BOND    =      579.2738  ANGLE   =     1522.5102  DIHED      =     1205.3039
+ VDWAALS =    -1683.3455  EEL     =   -16046.2995  EGB        =    -2252.0864
+ 1-4 VDW =      740.2168  1-4 EEL =    11017.7984  RESTRAINT  =        0.0000
+ ESURF   =        0.0000
+
+Processing frame 3
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2675) enb14 -->   749.576
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2676) eel14 --> 11060.878
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2734) enb --> -1667.486
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2735) eel --> -16152.788
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2736) e_gb --> -2199.745
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2737) esurf -->     0.000
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2738) evdwnp -->     0.000
+ BOND    =      600.8305  ANGLE   =     1549.7839  DIHED      =     1196.6337
+ VDWAALS =    -1667.4858  EEL     =   -16152.7881  EGB        =    -2199.7453
+ 1-4 VDW =      749.5764  1-4 EEL =    11060.8784  RESTRAINT  =        0.0000
+ ESURF   =        0.0000
+
+Processing frame 4
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2675) enb14 -->   723.264
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2676) eel14 --> 11067.918
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2734) enb --> -1713.237
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2735) eel --> -16128.717
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2736) e_gb --> -2206.854
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2737) esurf -->     0.000
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2738) evdwnp -->     0.000
+ BOND    =      634.1423  ANGLE   =     1520.0395  DIHED      =     1174.9626
+ VDWAALS =    -1713.2365  EEL     =   -16128.7168  EGB        =    -2206.8544
+ 1-4 VDW =      723.2642  1-4 EEL =    11067.9182  RESTRAINT  =        0.0000
+ ESURF   =        0.0000
+
+Processing frame 5
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2675) enb14 -->   725.728
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2676) eel14 --> 11060.706
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2734) enb --> -1680.173
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2735) eel --> -16128.365
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2736) e_gb --> -2227.573
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2737) esurf -->     0.000
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2738) evdwnp -->     0.000
+ BOND    =      571.5702  ANGLE   =     1528.1950  DIHED      =     1180.6412
+ VDWAALS =    -1680.1734  EEL     =   -16128.3650  EGB        =    -2227.5732
+ 1-4 VDW =      725.7279  1-4 EEL =    11060.7064  RESTRAINT  =        0.0000
+ ESURF   =        0.0000
+
+Processing frame 6
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2675) enb14 -->   731.763
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2676) eel14 --> 11048.030
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2734) enb --> -1670.826
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2735) eel --> -16141.779
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2736) e_gb --> -2185.273
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2737) esurf -->     0.000
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2738) evdwnp -->     0.000
+ BOND    =      568.0609  ANGLE   =     1545.6694  DIHED      =     1178.4912
+ VDWAALS =    -1670.8263  EEL     =   -16141.7795  EGB        =    -2185.2729
+ 1-4 VDW =      731.7632  1-4 EEL =    11048.0297  RESTRAINT  =        0.0000
+ ESURF   =        0.0000
+
+Processing frame 7
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2675) enb14 -->   755.782
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2676) eel14 --> 11058.996
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2734) enb --> -1642.801
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2735) eel --> -16053.573
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2736) e_gb --> -2294.994
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2737) esurf -->     0.000
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2738) evdwnp -->     0.000
+ BOND    =      559.6608  ANGLE   =     1517.2538  DIHED      =     1184.9610
+ VDWAALS =    -1642.8012  EEL     =   -16053.5730  EGB        =    -2294.9936
+ 1-4 VDW =      755.7825  1-4 EEL =    11058.9961  RESTRAINT  =        0.0000
+ ESURF   =        0.0000
+
+Processing frame 8
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2675) enb14 -->   730.031
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2676) eel14 --> 10987.066
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2734) enb --> -1711.658
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2735) eel --> -16027.697
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2736) e_gb --> -2248.530
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2737) esurf -->     0.000
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2738) evdwnp -->     0.000
+ BOND    =      577.9669  ANGLE   =     1522.1483  DIHED      =     1190.0010
+ VDWAALS =    -1711.6578  EEL     =   -16027.6973  EGB        =    -2248.5302
+ 1-4 VDW =      730.0308  1-4 EEL =    10987.0665  RESTRAINT  =        0.0000
+ ESURF   =        0.0000
+
+Processing frame 9
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2675) enb14 -->   730.382
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2676) eel14 --> 11016.641
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2734) enb --> -1675.834
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2735) eel --> -16070.101
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2736) e_gb --> -2239.706
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2737) esurf -->     0.000
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2738) evdwnp -->     0.000
+ BOND    =      582.0193  ANGLE   =     1535.8562  DIHED      =     1160.8773
+ VDWAALS =    -1675.8339  EEL     =   -16070.1012  EGB        =    -2239.7063
+ 1-4 VDW =      730.3823  1-4 EEL =    11016.6410  RESTRAINT  =        0.0000
+ ESURF   =        0.0000
+
+Processing frame 10
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2675) enb14 -->   728.266
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2676) eel14 --> 10994.138
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2734) enb --> -1701.149
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2735) eel --> -16021.337
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2736) e_gb --> -2251.218
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2737) esurf -->     0.000
+/Users/runner/miniforge3/conda-bld/ambertools_1740608171661/work/AmberTools/src/sff/eff.c(2738) evdwnp -->     0.000
+ BOND    =      587.6067  ANGLE   =     1591.0799  DIHED      =     1175.4955
+ VDWAALS =    -1701.1495  EEL     =   -16021.3373  EGB        =    -2251.2185
+ 1-4 VDW =      728.2663  1-4 EEL =    10994.1376  RESTRAINT  =        0.0000
+ ESURF   =        0.0000
+
+MM/GBSA processing done!

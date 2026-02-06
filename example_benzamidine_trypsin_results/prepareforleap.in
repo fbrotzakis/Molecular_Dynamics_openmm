@@ -1,0 +1,5 @@
+parm /Users/fdn/Documents/GitHub/Molecular_Dynamics_openmm/trypsin.pdb
+loadcrd /Users/fdn/Documents/GitHub/Molecular_Dynamics_openmm/trypsin.pdb name edited
+prepareforleap crdset edited name from-prepareforleap \ 
+pdbout /Users/fdn/Documents/GitHub/Molecular_Dynamics_openmm/starting_end.pdb  noh
+go 
