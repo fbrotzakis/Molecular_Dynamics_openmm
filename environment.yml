@@ -9,6 +9,7 @@ dependencies:
   - pdbfixer
   - openbabel
   - ipykernel                # For Jupyter connection
+  - jupyter-notebook         # Added to install Jupyter Notebook
   - ipywidgets 
   - ipython                  # For SVG, Image, and IPythonConsole
   - parmed
